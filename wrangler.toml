@@ -1,5 +1,5 @@
 type = "webpack"
-zone_id = ""
-account_id = ""
+zone_id = "speed.brello.cloud"
+account_id = "brello.cloud"
 route = ""
 workers_dev = true
